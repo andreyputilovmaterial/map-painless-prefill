@@ -1,6 +1,9 @@
 # map-painless-prefill
 Python script that helps you pre-fill painless map.
 
+Download files from the latest Release page:
+[Releases](https://github.com/andreyputilovmaterial/map-painless-prefill/releases/latest)
+
 To get it started, just edit the BAT file and insert the name of your map, and start it. As a result, it will generate:
 spss_map_savfile_MDDConvert.xlsx
 in the same directory. Just grab contents from columns A-P
